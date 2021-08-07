@@ -1,0 +1,40 @@
+// game by adamIreland 2021 adam.frontend.developer@gmail.com
+  body {
+    font-family: "Times New Roman", Times, serif;
+    background-image: url("http://ceescat.org/img/211075.jpg");
+    background-size: cover;
+    font-weight: bold;
+    font-style: oblique;
+    color: black;
+    text-align: left;
+}
+
+h1 {
+    color: black;
+    text-shadow: 2px 2px gold;
+    font-size: 50px;
+}
+
+#message-el {
+    font-style: bold;
+   color: black;
+}
+p {
+    font-size: 30px;
+    font-weight: bolder;
+    text-shadow: 2px 2px gold;
+}
+
+button {
+    color: #016f32;
+    width: 150px;
+    background: gold;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-weight: bold;
+    //text-shadow: 1px 1px bLACK;
+    border: none;
+    border-radius: 2px;
+    margin-bottom: 2px;
+    margin-top: 2px;
+}
